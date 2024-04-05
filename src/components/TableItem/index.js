@@ -17,4 +17,4 @@ const TableItem = props => {
   )
 }
 
-export default TabItem
+export default TableItem
